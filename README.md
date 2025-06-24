@@ -104,12 +104,6 @@ cd donation_management_system
 
 ---
 
-## Screenshot
-
-![Dashboard](uploads/WhatsApp%20Image%202025-06-19%20at%2013.36.57_bd3abc84.jpg)
-
----
-
 ## Security Notes
 
 - Passwords use SHA1 hashing for demonstration; upgrade to `password_hash()` for production use.
