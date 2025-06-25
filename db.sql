@@ -1,5 +1,5 @@
-CREATE DATABASE donation_systems;
-USE donation_systems;
+CREATE DATABASE donation_system;
+USE donation_system;
 
 CREATE TABLE donations (
     id INT AUTO_INCREMENT PRIMARY KEY,
